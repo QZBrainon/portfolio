@@ -19,9 +19,9 @@ export default function About() {
                 </div>
                 
                 <div className="flex-full about-text">
-                    <h5 className="gray">Projects</h5>
-                    <h1 className="white">About me and my work</h1>
-                    <p className="gray">Born and raised in Rio de Janeiro, Brazil with a business background.</p>
+                    <h5 className="gray">About</h5>
+                    <h1 className="white">Me and my work</h1>
+                    <p className="gray">Born and raised in Rio de Janeiro, Brazil, with a business background.</p>
                     <p className="gray">Throughout my professional life, I have learned many lessons, but the one that struck me the most was: </p>
                     <h3 className="white">Real value comes from creating solutions that work! My goal is to create real value to businesses around the world through technology.</h3>
                     <p className="gray">And to acomplish this, I have learned and worked with several different technologies, such as Javascript, Typescript, React, Express and Python among others</p>
