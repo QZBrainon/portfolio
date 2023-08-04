@@ -35,7 +35,7 @@ h1, h2, h3, h4, h5, h6, p {
 .flex {
   display: flex;
   flex-direction: row;
-  align-items: flex-start;
+  align-items: center;
 }
 .flex-full {
   flex: 1;
@@ -118,6 +118,7 @@ nav ul li {
   font-size: 0.8rem;
   font-weight: 500;
   margin-bottom: 1rem;
+  line-height: 1.7;
 }
 .about-card span {
   font-size: 0.8rem;

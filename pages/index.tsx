@@ -31,7 +31,7 @@ const Home: NextPage<AboutProps> = ({data}) => {
         <meta property="og:locale" content="en_GB" />
         <meta data-rh="true" property="og:type" content="website"/>
         <meta data-rh="true" property="og:title" content="Brainon Queiroz - Fullstack Developer"/>
-        <meta data-rh="true" property="og:image" content="/images/blaiti.png"/>
+        <meta data-rh="true" property="og:image" content="/images/profile_picture.jpeg"/>
       </Head>
 
       <Header />

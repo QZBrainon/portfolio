@@ -21,10 +21,10 @@ export default function About() {
                 <div className="flex-full about-text">
                     <h5 className="gray">About</h5>
                     <h1 className="white">Me and my work</h1>
-                    <p className="gray">Born and raised in Rio de Janeiro, Brazil, with a business background.</p>
-                    <p className="gray">Throughout my professional life, I have learned many lessons, but the one that struck me the most was: </p>
+                    <p className="gray">Born and raised in Rio de Janeiro, Brazil.</p>
+                    <p className="gray">I'm a fullstack web developer with a huge passion for creating tools that help others!</p>
                     <h3 className="white">Real value comes from creating solutions that work! My goal is to create real value to businesses around the world through technology.</h3>
-                    <p className="gray">And to acomplish this, I have learned and worked with several different technologies, such as Javascript, Typescript, React, Express and Python among others</p>
+                    <p className="gray">And to acomplish this goal, I have learned and worked with several different technologies, such as Javascript, Typescript, React, Express and Python among others</p>
                     <p className="gray">These are a few of my projects that I developed along my journey to become a web developer.</p>
                     <p className="gray">And there are many more to come!</p>
                     <p className="gray">If you are looking for an adaptable, willing to learn, business focused member to your team I am sure I can be a valuable addition.</p>
