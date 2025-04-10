@@ -12,7 +12,7 @@ export default function Header() {
           <button></button>
           <h1 className="white">Hi! I'm Brainon Queiroz</h1>
           <h2 className="white">Fullstack web developer</h2>
-          <p className="gray" style={{ fontSize: "18px" }}>
+          <p className="gray" style={{ fontSize: "20px" }}>
             I create solutions for people and businesses around the world
             through technology, and I love what I do.
           </p>
@@ -22,8 +22,8 @@ export default function Header() {
             </a>
             <a
               className="gray"
-              href="/static/english-CV.pdf"
-              download={"Brainon_Queiroz_Curriculo"}
+              href="/static/Desenvolvedor-Backend-Brainon-Queiroz.pdf"
+              download={"Desenvolvedor Backend Brainon Queiroz"} 
             >
               Download CV
             </a>
